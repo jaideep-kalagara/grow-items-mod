@@ -5,7 +5,7 @@
   "name": "Grow Items",
   "description": "A mod that lets you grow items with a new block!",
   "authors": ["SuperGamer10920"],
-  "contact": {},
+  "contact": {"homepage": "https://github.com/jaideep-kalagara/grow-items-mod/"},
   "license": "MIT",
   "icon": "assets/growitems/icon.png",
   "environment": "*",
