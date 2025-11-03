@@ -2,7 +2,6 @@ package net.supergamer.growitems.screen.custom.slots;
 
 import net.minecraft.inventory.Inventory;
 import net.minecraft.item.ItemStack;
-import net.minecraft.registry.tag.ItemTags;
 import net.minecraft.screen.slot.Slot;
 import net.supergamer.growitems.item.ModTags;
 

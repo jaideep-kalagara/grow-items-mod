@@ -25,7 +25,7 @@ public class ModRecipeProvider extends FabricRecipeProvider {
         return new RecipeGenerator(wrapperLookup, recipeExporter) {
             @Override
             public void generate() {
-                RegistryWrapper.Impl<Item> itemLookup = registries.getOrThrow(RegistryKeys.ITEM);
+                registries.getOrThrow(RegistryKeys.ITEM);
 
                 createShaped(RecipeCategory.MISC, ModBlocks.ITEM_GROWER, 1)
                         .pattern("ccc")

@@ -17,15 +17,11 @@ import net.minecraft.text.Text;
 import net.minecraft.util.collection.DefaultedList;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
-import net.supergamer.growitems.GrowItems;
 import net.supergamer.growitems.block.entity.ImplementedInventory;
 import net.supergamer.growitems.block.entity.ModBlockEntities;
 import net.supergamer.growitems.item.ModItems;
 import net.supergamer.growitems.screen.custom.ItemGrowerScreenHandler;
 import org.jetbrains.annotations.Nullable;
-
-import java.util.ArrayList;
-import java.util.stream.Collectors;
 
 public class ItemGrowerBlockEntity extends BlockEntity implements ImplementedInventory, ExtendedScreenHandlerFactory<BlockPos> {
     // create inventory

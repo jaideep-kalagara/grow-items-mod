@@ -4,8 +4,6 @@ import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricAdvancementProvider;
 import net.minecraft.advancement.*;
 import net.minecraft.advancement.criterion.InventoryChangedCriterion;
-import net.minecraft.data.advancement.AdvancementProvider;
-import net.minecraft.data.advancement.vanilla.VanillaStoryTabAdvancementGenerator;
 import net.minecraft.registry.RegistryWrapper;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
@@ -42,7 +40,7 @@ public class ModAdvancementProvider extends FabricAdvancementProvider {
                 )
                 .build(consumer, Identifier.of(GrowItems.MOD_ID, "root").toString());
 
-        AdvancementEntry itemGrown = Advancement.Builder.create()
+        Advancement.Builder.create()
                 .parent(root)
                 .display(
                         ModBlocks.ITEM_GROWER.asItem().getDefaultStack(),
