@@ -116,7 +116,7 @@ public class ItemGrowerBlockEntity extends BlockEntity implements ImplementedInv
         // get the speed subtraction modifier
         float speedSubtractionModifier = 0;
         for (ItemStack upgrade : upgradeSlots) {
-            if (upgrade.isEmpty()) {continue;} else if (upgrade.isOf(ModItems.RICH_SOIL_UPGRADE)){
+            if (upgrade.isOf(ModItems.RICH_SOIL_UPGRADE)){
                 speedSubtractionModifier += 0.1f; // 10% speed reduction x3 = 30% speed reduction
 
             }
