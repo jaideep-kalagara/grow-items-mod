@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "growitems:block/item_grower",
+    "side": "growitems:block/item_grower_side",
+    "top": "growitems:block/item_grower_top"
+  }
+}

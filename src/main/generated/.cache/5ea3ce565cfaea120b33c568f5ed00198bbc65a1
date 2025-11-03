@@ -1,0 +1,5 @@
+// 1.21.10	-999999999-01-01T00:00:00	Grow Items/
+eaa4ed5e68408bf408d42dba88abd3f8f750094b data/growitems/advancement/recipes/misc/item_grower.json
+c2fc82af8fe4c9f25d55c66dd9693cbd9c6ac440 data/growitems/advancement/recipes/misc/rich_soil_upgrade.json
+25ea81bc058432a3a0d85281cd053cb260cf5505 data/growitems/recipe/item_grower.json
+f6df4bccf32965fdd2247f085d811cae74e8ebcc data/growitems/recipe/rich_soil_upgrade.json

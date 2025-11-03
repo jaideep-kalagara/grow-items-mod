@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "has_item_grower": {
+      "conditions": {
+        "items": [
+          {
+            "items": "growitems:item_grower"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "background": "minecraft:gui/advancements/backgrounds/stone",
+    "description": "Begin your item cultivation journey",
+    "icon": {
+      "count": 1,
+      "id": "growitems:item_grower"
+    },
+    "title": "GrowItems"
+  },
+  "requirements": [
+    [
+      "has_item_grower"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

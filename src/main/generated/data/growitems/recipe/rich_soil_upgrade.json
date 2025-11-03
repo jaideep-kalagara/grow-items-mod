@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "growitems",
+  "key": {
+    "c": "minecraft:coarse_dirt",
+    "d": "minecraft:diamond",
+    "p": "minecraft:paper"
+  },
+  "pattern": [
+    "dcd",
+    "ppp",
+    "dcd"
+  ],
+  "result": {
+    "count": 1,
+    "id": "growitems:rich_soil_upgrade"
+  }
+}

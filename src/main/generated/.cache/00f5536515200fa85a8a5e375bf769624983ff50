@@ -1,0 +1,6 @@
+// 1.21.10	-999999999-01-01T00:00:00	Grow Items/Model Definitions
+e109877bc9f878944e9cbf97dc607bf170514f25 assets/growitems/blockstates/item_grower.json
+b1bc76e9522cc6c8913d0c7c27310e328773b0c2 assets/growitems/items/item_grower.json
+a8136257ca4667c5f982641b32e5e89c95146bf2 assets/growitems/items/rich_soil_upgrade.json
+80d2085680e8bbb4a69c6cad3d7528497f072b59 assets/growitems/models/block/item_grower.json
+f672b05950ded425f1948764f2527bed2ac9d157 assets/growitems/models/item/rich_soil_upgrade.json

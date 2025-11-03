@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "growitems",
+  "key": {
+    "a": "minecraft:amethyst_shard",
+    "c": "#minecraft:stone_crafting_materials",
+    "d": "minecraft:diamond_block"
+  },
+  "pattern": [
+    "ccc",
+    "ada",
+    "ccc"
+  ],
+  "result": {
+    "count": 1,
+    "id": "growitems:item_grower"
+  }
+}

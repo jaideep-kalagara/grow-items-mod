@@ -1,0 +1,10 @@
+{
+  "block.growitems.item_grower": "Item Grower",
+  "item.growitems.rich_soil_upgrade": "Rich Soil Upgrade",
+
+  "tooltip.growitems.rich_soil_upgrade": "Reduces growth time.",
+  "tooltip.growitems.rich_soil_upgrade.detail": "Each upgrade slot reduces total grow time by 10%. Max 3 upgrades → 30% faster.",
+  "tooltip.growitems.hold_shift": "§7Hold §eSHIFT§7 for more info.",
+
+  "tag.item.growitems.item_grower_upgrades": "Item Grower Upgrade"
+}

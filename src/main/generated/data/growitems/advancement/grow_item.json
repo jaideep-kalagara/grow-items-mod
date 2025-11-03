@@ -1,0 +1,23 @@
+{
+  "parent": "growitems:root",
+  "criteria": {
+    "grow_item": {
+      "trigger": "growitems:item_grown"
+    }
+  },
+  "display": {
+    "description": "Grow an item using the Item Grower",
+    "frame": "goal",
+    "icon": {
+      "count": 1,
+      "id": "growitems:item_grower"
+    },
+    "title": "Multiply and Flourish"
+  },
+  "requirements": [
+    [
+      "grow_item"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
