@@ -1,6 +1,6 @@
 # Grow Items Mod
 
-Grow Items is a Fabric mod that introduces a new “Item Grower” block which lets you **grow vanilla items over time**, similar to crops — but automated.
+Grow Items is a Fabric mod that introduces a new “Item Grower” block which lets you **grow vanilla items over time**, similar to crops, but automated.
 
 You can insert an input item + fuel → and the Item Grower slowly produces more of that same item.
 
@@ -27,4 +27,4 @@ Future plans may include:
 
 ---
 
-This project is WIP — feedback is welcome!
+This project is WIP, feedback is welcome!
